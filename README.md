@@ -1,2 +1,3 @@
 # Translation-tool-03
-New tool
+remember -
+create a js folder and then store the both js files in it then only the js will work
